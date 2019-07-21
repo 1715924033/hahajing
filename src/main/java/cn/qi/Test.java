@@ -9,6 +9,7 @@ public class Test {
         i++;
         System.out.println(i);
         int j=2;
+        System.out.println("hahajing");
 
     }
 }
