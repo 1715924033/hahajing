@@ -8,6 +8,7 @@ public class Test {
         int i=1;
         i++;
         System.out.println(i);
+        int j=2;
 
     }
 }
